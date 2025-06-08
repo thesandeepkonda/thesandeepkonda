@@ -1,59 +1,74 @@
-# 👋 Hi there, I'm Sandeep Konda!
+# Welcome to my GitHub! 👋
 
-🎯 Aspiring AWS DevOps Engineer| 🚀 Focused on Cloud, CI/CD, Containers, and Automation  
-📍 Based in Hyderabad
+I'm **Sandeep**, a cloud engineer who builds things that scale and automate everything possible.
+
+## What I do 🔧
+
+I work with **AWS** and **DevOps tools** to create infrastructure that just works. My code lives here, and I'm always pushing something new.
+
+```bash
+$ whoami
+sandeep-konda
+$ cat /etc/os-release | grep PRETTY_NAME
+PRETTY_NAME="Cloud Engineer"
+$ ps aux | grep interests
+aws-solutions-architect    terraform    docker    kubernetes    automation
+```
+
+## My Stack 💻
+
+| **Cloud** | **DevOps** | **Code** |
+|-----------|------------|----------|
+| AWS Lambda | Jenkins | Bash |
+| EC2 & S3 | Docker | Python |
+| CloudFormation | Kubernetes | YAML |
+| Terraform | GitHub Actions | JSON |
+
+## Recent Projects 🚀
+
+### [serverless-order-api](https://github.com/username/serverless-order-api)
+Serverless order processing with Lambda + DynamoDB. Event-driven, scales automatically.
+
+### [terraform-aws-modules](https://github.com/username/terraform-modules)
+Reusable Terraform modules for AWS infrastructure. VPC, EC2, RDS - all modular.
+
+### [ci-cd-web-deploy](https://github.com/username/web-deploy-pipeline)
+Automated deployment pipeline. Push to main → tests run → deploy to AWS.
+
+## Currently Working On 🎯
+
+- **Kubernetes cluster management** - Getting deep into EKS and pod orchestration
+- **Infrastructure monitoring** - CloudWatch dashboards and alerting systems
+- **Cost optimization** - Right-sizing AWS resources and automated scaling
+
+## Learning Path 📚
+
+- [ ] Advanced Kubernetes patterns
+- [ ] AWS Security best practices  
+- [ ] Multi-cloud strategies
+- [x] AWS Solutions Architect certification
+- [x] Terraform state management
+- [x] Docker containerization
+
+## Quick Stats 📊
+
+```
+📍 Location: Hyderabad, India
+🎯 Focus: AWS + DevOps
+📊 AWS Certified: Solutions Architect Associate
+🐳 Containers: Docker, Kubernetes
+🏗️ IaC: Terraform, CloudFormation
+```
+
+## Connect with me 🤝
+
+Building something cool? Have a DevOps challenge? Let's talk!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sandeepkonda07)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:thesandeepkonda@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
+**Looking for:** AWS Cloud Engineer | DevOps Engineer roles where I can build scalable infrastructure and automate deployments.
 
-I’m a recent master's graduate who is deeply passionate about DevOps, Cloud Computing, and Infrastructure Automation.
-
-I spent this time productively — self-learning, building projects, and gaining hands-on experience with industry tools like:
-
-- 🐧 **Linux**
-- 🐳 **Docker**
-- ⚙️ **Jenkins**
-- ☁️ **AWS**
-- 📂 **Git & GitHub**
-- 🛠️ **Shell Scripting**
-- 📦 **CI/CD Concepts**
-
-I'm now looking to apply my knowledge in a real-world DevOps role and grow through continuous learning and team collaboration.
-
----
-
-## 📁 My DevOps Projects
-
-Here are a few beginner-friendly DevOps projects I've worked on:
-
-### 🔹 [CI/CD Pipeline for a Simple Web App]
-- Built a basic CI/CD pipeline using GitHub Actions and Jenkins
-- Auto-tested and deployed a Python/Node.js app to a local server
-
-### 🔹 [Dockerized Flask Application]
-- Containerized a simple Flask web app using Docker
-- Wrote a custom `Dockerfile` and ran it using `docker-compose`
-
-### 🔹 [AWS EC2 + Apache Deployment Script]
-- Wrote a Bash script to launch an EC2 instance and configure Apache server
-- Demonstrated Infrastructure-as-Code using AWS CLI
-
----
-
-## 📜 Certifications
-
-
-▪ ✅ **AWS Certified Solutions Architect – Associate** - Amazon Web Services
-▪ ✅ **Microsoft Azure Fundamentals**- Microsoft
-
----
-
-## 📫 Let's Connect!
-
-- 📧 Email: kondasandeep56@gmal.com 
-- 💼 LinkedIn: [linkedin.com/in/sandeepkonda07](https://www.linkedin.com/in/sandeepkonda07/)
-
----
-
-Thanks for visiting! I’m open to **AWS cloud engineer** **junior DevOps roles**, or **collaborative projects**.
+*Check out my repositories below - always open to feedback and collaboration!* ⬇️
