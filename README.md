@@ -52,7 +52,7 @@ Here are a few beginner-friendly DevOps projects I've worked on:
 ## 📫 Let's Connect!
 
 - 📧 Email: kondasandeep56@gmal.com 
-- 💼 LinkedIn: linkedin.com/in/sandeepkonda07
+- 💼 LinkedIn: [linkedin.com/in/sandeepkonda07](https://www.linkedin.com/in/sandeepkonda07/)
 
 ---
 
