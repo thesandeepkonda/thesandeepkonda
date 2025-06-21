@@ -49,27 +49,13 @@ Looks clean, retro, and readable in both GitHub light/dark modes.
 
 ## 📊 Most Used Languages
 
-<div align="left">
+![JavaScript](https://img.shields.io/badge/JavaScript-58.54%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-17.87%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-12.23%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-7.87%25-89e051?style=for-the-badge&logo=gnubash&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-1.90%25-844FBA?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-1.59%25-007396?style=for-the-badge&logo=java&logoColor=white)
 
-💛 <strong>JavaScript</strong>  
-<img src="https://progress-bar.dev/59/?title=JavaScript&color=F7DF1E" width="400" />
-
-🟥 <strong>HTML</strong>  
-<img src="https://progress-bar.dev/18/?title=HTML&color=E34F26" width="400" />
-
-🟦 <strong>CSS</strong>  
-<img src="https://progress-bar.dev/12/?title=CSS&color=1572B6" width="400" />
-
-🟢 <strong>Shell</strong>  
-<img src="https://progress-bar.dev/8/?title=Shell&color=89E051" width="400" />
-
-🟪 <strong>HCL</strong>  
-<img src="https://progress-bar.dev/2/?title=HCL&color=844FBA" width="400" />
-
-🔵 <strong>Java</strong>  
-<img src="https://progress-bar.dev/2/?title=Java&color=007396" width="400" />
-
-</div>
 
 ------
 
