@@ -49,43 +49,44 @@ Looks clean, retro, and readable in both GitHub light/dark modes.
 
 ## 📊 Most Used Languages
 
-<div align="left">
-  <div style="display: inline-block; border: 2px solid #F7DF1E; padding: 5px 10px; border-radius: 8px; margin: 5px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="border: 2px solid #F7DF1E; padding: 5px 10px; border-radius: 8px; width: 160px; text-align: center;">
     <strong>JavaScript</strong><br> 58.54%
     <br>
-    <img src="https://img.shields.io/badge/JavaScript-58.54%25-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/JavaScript-58.54%25-F7DF1E?style=flat&logo=javascript&logoColor=black" width="100%" />
   </div>
 
-  <div style="display: inline-block; border: 2px solid #E34F26; padding: 5px 10px; border-radius: 8px; margin: 5px;">
+  <div style="border: 2px solid #E34F26; padding: 5px 10px; border-radius: 8px; width: 160px; text-align: center;">
     <strong>HTML</strong><br> 17.87%
     <br>
-    <img src="https://img.shields.io/badge/HTML-17.87%25-E34F26?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-17.87%25-E34F26?style=flat&logo=html5&logoColor=white" width="100%" />
   </div>
 
-  <div style="display: inline-block; border: 2px solid #1572B6; padding: 5px 10px; border-radius: 8px; margin: 5px;">
+  <div style="border: 2px solid #1572B6; padding: 5px 10px; border-radius: 8px; width: 160px; text-align: center;">
     <strong>CSS</strong><br> 12.23%
     <br>
-    <img src="https://img.shields.io/badge/CSS-12.23%25-1572B6?style=flat&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-12.23%25-1572B6?style=flat&logo=css3&logoColor=white" width="100%" />
   </div>
 
-  <div style="display: inline-block; border: 2px solid #89E051; padding: 5px 10px; border-radius: 8px; margin: 5px;">
+  <div style="border: 2px solid #89E051; padding: 5px 10px; border-radius: 8px; width: 160px; text-align: center;">
     <strong>Shell</strong><br> 7.87%
     <br>
-    <img src="https://img.shields.io/badge/Shell-7.87%25-89E051?style=flat&logo=gnubash&logoColor=white" />
+    <img src="https://img.shields.io/badge/Shell-7.87%25-89E051?style=flat&logo=gnubash&logoColor=white" width="100%" />
   </div>
 
-  <div style="display: inline-block; border: 2px solid #844FBA; padding: 5px 10px; border-radius: 8px; margin: 5px;">
+  <div style="border: 2px solid #844FBA; padding: 5px 10px; border-radius: 8px; width: 160px; text-align: center;">
     <strong>HCL</strong><br> 1.90%
     <br>
-    <img src="https://img.shields.io/badge/HCL-1.90%25-844FBA?style=flat" />
+    <img src="https://img.shields.io/badge/HCL-1.90%25-844FBA?style=flat" width="100%" />
   </div>
 
-  <div style="display: inline-block; border: 2px solid #007396; padding: 5px 10px; border-radius: 8px; margin: 5px;">
+  <div style="border: 2px solid #007396; padding: 5px 10px; border-radius: 8px; width: 160px; text-align: center;">
     <strong>Java</strong><br> 1.59%
     <br>
-    <img src="https://img.shields.io/badge/Java-1.59%25-007396?style=flat&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-1.59%25-007396?style=flat&logo=java&logoColor=white" width="100%" />
   </div>
 </div>
+
 ------
 
 
