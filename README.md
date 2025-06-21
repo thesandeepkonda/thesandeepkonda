@@ -47,33 +47,30 @@ Looks clean, retro, and readable in both GitHub light/dark modes.
 
 ---
 
-## 🌈 Option 2: Gradient Progress Bars Using HTML + CSS-style Markdown
-
-```markdown
 ## 📊 Most Used Languages
 
 <div align="left">
 
-💛 <b>JavaScript</b>  
-<span style="background: #f7df1e; color: black; padding: 3px 10px; border-radius: 5px;"> 58.54% </span>  
-<img src="https://progress-bar.dev/59/?title=JavaScript&color=f7df1e&width=300" />
+💛 <strong>JavaScript</strong>  
+<img src="https://progress-bar.dev/59/?title=JavaScript&color=F7DF1E" width="400" />
 
-🟥 <b>HTML</b>  
-<img src="https://progress-bar.dev/18/?title=HTML&color=E34F26&width=300" />
+🟥 <strong>HTML</strong>  
+<img src="https://progress-bar.dev/18/?title=HTML&color=E34F26" width="400" />
 
-🟦 <b>CSS</b>  
-<img src="https://progress-bar.dev/12/?title=CSS&color=1572B6&width=300" />
+🟦 <strong>CSS</strong>  
+<img src="https://progress-bar.dev/12/?title=CSS&color=1572B6" width="400" />
 
-🟢 <b>Shell</b>  
-<img src="https://progress-bar.dev/8/?title=Shell&color=89e051&width=300" />
+🟢 <strong>Shell</strong>  
+<img src="https://progress-bar.dev/8/?title=Shell&color=89E051" width="400" />
 
-🟪 <b>HCL</b>  
-<img src="https://progress-bar.dev/2/?title=HCL&color=844FBA&width=300" />
+🟪 <strong>HCL</strong>  
+<img src="https://progress-bar.dev/2/?title=HCL&color=844FBA" width="400" />
 
-🔵 <b>Java</b>  
-<img src="https://progress-bar.dev/2/?title=Java&color=007396&width=300" />
+🔵 <strong>Java</strong>  
+<img src="https://progress-bar.dev/2/?title=Java&color=007396" width="400" />
 
 </div>
+
 ------
 
 
