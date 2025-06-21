@@ -41,17 +41,40 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=thesandeepkonda&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
+### ✅ Result:
+Looks clean, retro, and readable in both GitHub light/dark modes.
+
+---
+
+## 🌈 Option 2: Gradient Progress Bars Using HTML + CSS-style Markdown
+
+```markdown
 ## 📊 Most Used Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-58.54%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-17.87%25-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-12.23%25-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-7.87%25-89e051?style=flat-square&logo=gnu-bash&logoColor=white)
-![HCL](https://img.shields.io/badge/HCL-1.90%25-844FBA?style=flat-square)
-![Java](https://img.shields.io/badge/Java-1.59%25-007396?style=flat-square&logo=java&logoColor=white)
+<div align="left">
 
+💛 <b>JavaScript</b>  
+<span style="background: #f7df1e; color: black; padding: 3px 10px; border-radius: 5px;"> 58.54% </span>  
+<img src="https://progress-bar.dev/59/?title=JavaScript&color=f7df1e&width=300" />
 
+🟥 <b>HTML</b>  
+<img src="https://progress-bar.dev/18/?title=HTML&color=E34F26&width=300" />
 
+🟦 <b>CSS</b>  
+<img src="https://progress-bar.dev/12/?title=CSS&color=1572B6&width=300" />
+
+🟢 <b>Shell</b>  
+<img src="https://progress-bar.dev/8/?title=Shell&color=89e051&width=300" />
+
+🟪 <b>HCL</b>  
+<img src="https://progress-bar.dev/2/?title=HCL&color=844FBA&width=300" />
+
+🔵 <b>Java</b>  
+<img src="https://progress-bar.dev/2/?title=Java&color=007396&width=300" />
+
+</div>
+------
 
 
 
