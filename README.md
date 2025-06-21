@@ -49,13 +49,43 @@ Looks clean, retro, and readable in both GitHub light/dark modes.
 
 ## 📊 Most Used Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-58.54%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-17.87%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-12.23%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-7.87%25-89e051?style=for-the-badge&logo=gnubash&logoColor=white)
-![HCL](https://img.shields.io/badge/HCL-1.90%25-844FBA?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-1.59%25-007396?style=for-the-badge&logo=java&logoColor=white)
+<div align="left">
+  <div style="border: 2px solid #F7DF1E; padding: 10px; border-radius: 8px; width: 400px; margin-bottom: 10px;">
+    <strong>JavaScript</strong> - 58.54%
+    <br>
+    <img src="https://img.shields.io/badge/JavaScript-58.54%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100%" />
+  </div>
 
+  <div style="border: 2px solid #E34F26; padding: 10px; border-radius: 8px; width: 400px; margin-bottom: 10px;">
+    <strong>HTML</strong> - 17.87%
+    <br>
+    <img src="https://img.shields.io/badge/HTML-17.87%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100%" />
+  </div>
+
+  <div style="border: 2px solid #1572B6; padding: 10px; border-radius: 8px; width: 400px; margin-bottom: 10px;">
+    <strong>CSS</strong> - 12.23%
+    <br>
+    <img src="https://img.shields.io/badge/CSS-12.23%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100%" />
+  </div>
+
+  <div style="border: 2px solid #89E051; padding: 10px; border-radius: 8px; width: 400px; margin-bottom: 10px;">
+    <strong>Shell</strong> - 7.87%
+    <br>
+    <img src="https://img.shields.io/badge/Shell-7.87%25-89E051?style=for-the-badge&logo=gnubash&logoColor=white" width="100%" />
+  </div>
+
+  <div style="border: 2px solid #844FBA; padding: 10px; border-radius: 8px; width: 400px; margin-bottom: 10px;">
+    <strong>HCL</strong> - 1.90%
+    <br>
+    <img src="https://img.shields.io/badge/HCL-1.90%25-844FBA?style=for-the-badge" width="100%" />
+  </div>
+
+  <div style="border: 2px solid #007396; padding: 10px; border-radius: 8px; width: 400px; margin-bottom: 10px;">
+    <strong>Java</strong> - 1.59%
+    <br>
+    <img src="https://img.shields.io/badge/Java-1.59%25-007396?style=for-the-badge&logo=java&logoColor=white" width="100%" />
+  </div>
+</div>
 
 ------
 
