@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=thesandeepkonda)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 👋 Hi there, I'm Sandeep Konda!
 
 🎯 Aspiring AWS DevOps Engineer| 🚀 Focused on Cloud, CI/CD, Containers, and Automation  
