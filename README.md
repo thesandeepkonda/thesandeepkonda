@@ -1,4 +1,37 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=thesandeepkonda)](https://github.com/ryo-ma/github-profile-trophy)
+# 👋 Hi, I'm Sandeep Konda
+
+## 🚀 About Me
+- 🔭 I’m currently working on...
+- 🌱 I’m currently learning...
+- 👯 I’m looking to collaborate on...
+- 💬 Ask me about...
+- 📫 How to reach me: kondasandeep56@gmail.com
+- ⚡ Fun fact: ...
+
+---
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
+<!-- Add more badges from https://simpleicons.org or shields.io -->
+
+---
+
+## 📊 GitHub Stats
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesandeepkonda&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesandeepkonda&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=thesandeepkonda&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
 
 # 👋 Hi there, I'm Sandeep Konda!
 
