@@ -41,6 +41,18 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=thesandeepkonda&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+## 📊 Most Used Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-58.54%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-17.87%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-12.23%25-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-7.87%25-89e051?style=flat-square&logo=gnu-bash&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-1.90%25-844FBA?style=flat-square)
+![Java](https://img.shields.io/badge/Java-1.59%25-007396?style=flat-square&logo=java&logoColor=white)
+
+
+
+
 
 
 # 👋 Hi there, I'm Sandeep Konda!
