@@ -75,6 +75,9 @@ I spent this time productively — self-learning, building projects, and gaining
 - 📂 **Git & GitHub**
 - 🛠️ **Shell Scripting**
 - 📦 **CI/CD Concepts**
+- **Java**
+- **Springboot**
+- **Font-End / Backend Developer**
 
 I'm now looking to apply my knowledge in a real-world DevOps role and grow through continuous learning and team collaboration.
 
@@ -89,11 +92,11 @@ Here are a few beginner-friendly DevOps projects I've worked on:
 - Auto-tested and deployed a Python/Node.js app to a local server
 
 ### 🔹 [Dockerized Flask Application]
-- Containerized a simple Flask web app using Docker
+- Containerised a simple Flask web app using Docker
 - Wrote a custom `Dockerfile` and ran it using `docker-compose`
 
 ### 🔹 [AWS EC2 + Apache Deployment Script]
-- Wrote a Bash script to launch an EC2 instance and configure Apache server
+- Wrote a Bash script to launch an EC2 instance and configure the Apache server
 - Demonstrated Infrastructure-as-Code using AWS CLI
 
 ---
@@ -109,8 +112,8 @@ Here are a few beginner-friendly DevOps projects I've worked on:
 ## 📫 Let's Connect!
 
 - 📧 Email: kondasandeep56@gmal.com 
-- 💼 LinkedIn: [linkedin.com/in/sandeepkonda07](https://www.linkedin.com/in/sandeepkonda07/)
+
 
 ---
 
-Thanks for visiting! I’m open to **AWS cloud engineer** **junior DevOps roles**, or **collaborative projects**.
+Thanks for visiting! I’m open to **AWS cloud/Devops engineer**, **Java Developer**, or **collaborative projects**.
