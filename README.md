@@ -99,7 +99,7 @@ Here are a few beginner-friendly DevOps projects I've worked on:
 - Demonstrated Infrastructure-as-Code using AWS CLI
 
 ---
-
+ 
 ## 📜 Certifications
 
 
