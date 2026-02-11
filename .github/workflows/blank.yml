@@ -1,24 +1,31 @@
-name: Basic Practice Workflow
+name: Advanced Practice
 
-on:
-  push:
-    branches:
-      - main
-      - dev
+on: [push]
 
 jobs:
-  practice-job:
+  devops-pipeline:
     runs-on: ubuntu-latest
 
+    strategy:
+      matrix:
+        node-version: [18, 20]
+
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Show Files
-        run: ls -la
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
 
-      - name: Print Message
-        run: echo "Hello Sandeep 🚀 GitHub Actions is working!"
+      - name: Cache Dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: node-${{ runner.os }}
 
-      - name: Check Node Version
-        run: node -v
+      - name: Run App
+        run: node app.js
+
+      - name: Deploy (Main Only)
+        if: github.ref == 'refs/heads/main'
+        run: echo "🚀 Deploying to production..."
