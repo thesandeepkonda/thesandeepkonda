@@ -27,13 +27,6 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
 </p>
 
-
----
-
-## 📊 GitHub Stats
-![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesandeepkonda&show_icons=true&theme=radical)
-
-
 ---
 
 ## 🏆 GitHub Trophies
